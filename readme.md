@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/SaswatTwts?logo=twitter&style=for-the
 - 💬 Ask me about **C++ , c , java , javascript**
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 📫 How to reach me **saswat.sam786@gmail.com**
+- 📫 How to reach me **purwaranmol15@gmail.com**
 
 - 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1hcg60KqwyXEZT8eU0x7rrYEkEJ4cdWEz/view?usp=sharing)
 
@@ -32,8 +32,8 @@ src="https://img.shields.io/twitter/follow/SaswatTwts?logo=twitter&style=for-the
 <p align="left">
   <a href="https://www.twitter.com/SaswatTwts" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="30" /></a>
   <a href="https://www.linkedin.com/in/saswat_sam" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="30" /></a>
-<a href="https://instagram.com/saswat_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswat-samal-1b586018a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saswat_sam786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saswat_sam786" height="30" width="40" /></a>
+<a href="https://instagram.com/anmol_purwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswat-samal-1b586018a" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/purwaranmol15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saswat_sam786" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saswat_sam786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saswat_sam786" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user1583h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1583h" height="30" width="40" /></a>
 </p>
