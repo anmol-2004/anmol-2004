@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Anmol Purwar !!</h1>
 <p align="center"><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png"></p>
-<h3 align="center">Problem Solver || Full Stack Developer || DevOps Engineer</h3>
+<h3 align="center">Problem Solver || Front End Developer || DSA Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saswatsam786&label=Profile%20views&color=0e75b6&style=flat" alt="saswatsam786" /> </p>
 <a href="https://www.twitter.com/SaswatTwts" target="_blank" rel="noreferrer"><img
