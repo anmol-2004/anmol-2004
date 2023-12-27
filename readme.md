@@ -2,11 +2,6 @@
 <p align="center"><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png"></p>
 <h3 align="center">Problem Solver || Front End Developer || DSA Enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saswatsam786&label=Profile%20views&color=0e75b6&style=flat" alt="saswatsam786" /> </p>
-<a href="https://www.twitter.com/SaswatTwts" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/SaswatTwts?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About me ....</h3>
