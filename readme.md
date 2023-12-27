@@ -13,18 +13,14 @@ src="https://img.shields.io/twitter/follow/SaswatTwts?logo=twitter&style=for-the
 
 - 🔭 I’m currently working on [<strong>Mojo - A Social Network kind a app...</strong>](https://github.com/saswatsam786/mojo)
 
-- 🌱 I’m currently learning **Go, docker, Redux, nodejs and aws**
+- 🌱 I’m currently learning *Data Structure and ALgorithms*
 
-- 👯 I’m looking to collaborate on **Reactjs, nodejs, aws, docker and Kubernetes**
-
-- 🤝 I’m looking for help with **Reactsjs and Nodejs**
-
-- 💬 Ask me about **C++ , c , java , javascript**
+- 💬 Ask me about **C++ , c , Python**
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 📫 How to reach me **purwaranmol15@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1hcg60KqwyXEZT8eU0x7rrYEkEJ4cdWEz/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **My comments can lie but my code won't😜😜😂**
 
